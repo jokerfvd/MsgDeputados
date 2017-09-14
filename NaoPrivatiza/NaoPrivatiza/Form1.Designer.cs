@@ -168,9 +168,8 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(179, 440);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(173, 13);
+            this.label6.Size = new System.Drawing.Size(0, 13);
             this.label6.TabIndex = 15;
-            this.label6.Text = "Enviando email para os deputados!";
             this.label6.Visible = false;
             // 
             // Form1
