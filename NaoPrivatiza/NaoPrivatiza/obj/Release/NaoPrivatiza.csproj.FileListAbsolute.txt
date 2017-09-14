@@ -1,0 +1,7 @@
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\bin\Release\NaoPrivatiza.exe
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\bin\Release\NaoPrivatiza.pdb
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\obj\Release\NaoPrivatiza.Form1.resources
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\obj\Release\NaoPrivatiza.Properties.Resources.resources
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\obj\Release\NaoPrivatiza.csproj.GenerateResource.Cache
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\obj\Release\NaoPrivatiza.exe
+C:\Users\fduval\Documents\GitHub\Naoprivatiza\NaoPrivatiza\NaoPrivatiza\obj\Release\NaoPrivatiza.pdb

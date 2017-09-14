@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Exmo(a) Senhor(a) Deputado(a),
+
+Na noite de 21 de agosto de 2017, recebi a notícia da intenção do governo de privatizar o Sistema Eletrobras. Três semanas depois (dia 11/09), o Ministro de Minas e Energia sinalizou que quer submeter a Medida Provisória da privatização à Câmara dos Deputados até o final de setembro de 2017. Uma decisão complexa, tratada a “toque de caixa”.
+
+Venho registrar minha posição contrária à privatização do Sistema Eletrobras, e explico a Vossa Excelência o porquê.
+
+A Eletrobras é a maior empresa de energia elétrica da América Latina. São 233 usinas, que produzem um terço (170,9 milhões de MWh) da energia consumida no Brasil. No ano passado, a capacidade instalada da empresa atingiu 46,856 GW. Cerca de 94% da energia produzida vem de fontes limpas, com baixa emissão de gases de efeito estufa.
+
+A Empresa também é líder em transmissão de energia elétrica no Brasil com aproximadamente 70 mil quilômetros de linhas com tensões entre 230 e 765 kV, o que representa quase metade do total das linhas de transmissão desse tipo no país, ou cerca de 1 volta e meia ao redor do Planeta Terra.​ Quanto à capacidade de transformação, é responsável por 239.866 MVA de potência, distribuídos em 271 subestações em todas as regiões do país.
+
+A Eletrobras enfrentou um período de adaptação aos parâmetros regulatórios da Medida Provisória 579/2012, que acarretou perda de 20% na receita da Empresa e um prejuízo acumulado de R$ 31 bilhões entre 2012 e 2015. No entanto, o resultado de 2016 já mostrou sinais claros de recuperação e retomada de rumos: lucro líquido de R$ 3,426 bilhões, receita líquida de R$ 60,749 bilhões e Ebitda de R$ 19,797 bilhões. Os resultados de 2017 também são muito positivos, co redução drástica do endividamento. Ainda é importante citar que a Eletrobras receberá, em contrapartida aos impactos da MP 579, até o ano de 2025, R$ 39,27 bilhões de indenização da Rede Básica do Sistema Existente (RBSE), por investimentos feitos em linhas de transmissão antes de maio de 2000. Estima-se que ao longo da história, foram investidos R$ 400 bilhões na Eletrobras e hoje se fala em vender a estatal por somente R$ 20 bilhões? Como fechar esta conta?
+
+Outro ponto é que não se pode ignorar o papel do Estado no setor energético de um país. Enquanto nos EUA, China e Canadá, a geração e transmissão de energia elétrica são vistas como áreas estratégicas (eventualmente protegidas até por forças militares) por estarem vinculadas à soberania nacional, por aqui estamos indo na contramão. Em 2016, a empresa estatal chinesa State Grid, que já é uma das maiores empresas “privadas” do Brasil, tentou comprar 50,4% da estatal australiana Ausgrid, o que foi rechaçado pelo governo local por razões estratégicas. Os maiores países do mundo em território consideram as usinas hidrelétricas como estratégicas, muito além de sua função de gerar energia. Todos estão errados e só o Brasil está certo?
+
+Analistas militares são unânimes em apontar o acesso a recursos hídricos (água potável) como a provável razão de uma terceira guerra mundial. Todos sobreviveremos sem petróleo, mas nenhum ser humano vive sem água. O Brasil, além dos milhares de rios, lagos, riachos e lagoas, está sobre o Aquífero Guarani, o maior depósito de água doce do mundo. Ao privatizar a Eletrobras, gestora dos grandes reservatórios de água do Brasil, estamos liquidando não só usinas e linhas de transmissão, mas também a nossa água! Contrariando ainda, a Constituição Federal que no artigo 20, inciso III, estabelece que “são bens da União os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais”. O que está se propondo é a maior liquidação de rios da história do Brasil.
+
+O Sistema Eletrobas garante segurança para a expansão e funcionamento da indústria e do comércio do país, que fica protegido para o saudável desenvolvimento da economia nacional enquanto o setor de energia prioriza o desenvolvimento e a segurança do Brasil. Garante o funcionamento seguro de áreas como a saúde, a educação e a segurança, pois a energia elétrica é a base da nossa sociedade e é constitucionalmente um serviço essencial e indispensável para as necessidades inadiáveis das comunidades, como atendimento médico e segurança. É o que permite o acesso aos direitos básicos sociais.
+
+A empresa é fundamental para desenvolver e operacionalizar obras de engenharia de porte global, tais como Itaipu, Tucuruí e Belo Monte. Ao privatizar a Companhia, os investidores estrangeiros trarão de fora soluções tecnológicas que visam precarizar empregos, sucatear a nossa indústria e impedir que o país desenvolva tecnologia própria. Além disso, a matriz energética brasileira está geograficamente integrada, e o risco de monopólio privado ao qual estaremos expostos prejudicará a operação do Sistema Interligado Nacional (SIN) – que é o sistema de produção e transmissão de energia elétrica do Brasil – provocando ineficiência na prestação de serviços e insegurança no fornecimento de energia. Casos como a crise energética da Califórnia no início do século quando ocorreram rodízios de apagão e aumento de 50% de tarifa de energia ao consumidor final, devem servir de aprendizado. Não podemos ficar expostos a este tipo de risco de energia intermitente.  Por todos esses fatores, Federações de Indústrias e Conselhos Regionais de Engenharia já se posicionaram contrários a este processo de privatização.
+
+Hoje, a Eletrobras é indutora do desenvolvimento sustentável no Brasil, seja por meio do investimento em cultura, educação, saúde, direitos infantis, geração de trabalho e renda, meio ambiente, qualificação profissional e cidadania, seja por meio das ações de redução de impactos socioambientais nos processos de licenciamento. Todo empreendimento da Eletrobras é resultado de estudos de avaliação ambiental que identificam as ações de compensação, mitigação ou reparação estabelecidas nos processos de licenciamento ambiental e intenso contato com os grupos sociais locais que são beneficiados com programas de Responsabilidade Social e ações integradas de melhoria de vida relacionadas a moradia, infraestrutura sanitária e mobilidade urbana. Vale refletir que as dezenas de barragens da Eletrobras nunca passaram por nada parecido com o lamentável desastre de Mariana (MG).
+
+O Sistema Eletrobras é desenvolvimentista com profundo compromisso socioambiental. Que empresa privada teria esse tipo de preocupação? Quem levaria energia elétrica a áreas distantes ou carentes? Quem assumiria empreendimentos sem perspectiva de grande retorno financeiro, mas importantes para o crescimento do Brasil? Que agente privado fomentaria um programa como o “Luz para todos”?
+
+Falando ainda em desenvolvimento sustentável, segundo o relatório Electric Vehicle Outlook 2017, da Bloomberg New Energy Finance, a perspectiva é que, em algum momento entre 2025 e 2030, o carro elétrico terá o mesmo preço ou ficará até mais barato que carros a gasolina e álcool para o consumidor final, sem a necessidade de subsídios governamentais. Estamos próximos de uma substituição tecnológica natural dos veículos de motor a óleo pelos veículos de motor elétrico que vai favorecer extremamente às empresas de geração de energia elétrica. Então por que privatizar a Eletrobras logo agora? A quem isso atende?
+
+Por fim, outra questão fundamental para a população brasileira é o inevitável reajuste tarifário. Países como Portugal e Argentina sofreram com “tarifaços” pós privatização.  Hoje, com as usinas cotizadas pela MP 579/2012, a Eletrobras comercializa energia a R$ 30,00/MWh, enquanto que com a descotização (condição da privatização) a energia será vendida no mercado livre por R$ 200,00/MWh em média. A privatização ampliará a especulação nos contratos de compra e venda de energia no mercado livre.
+
+A Agência Nacional de Energia Elétrica (Aneel) calcula que o reajuste de tarifa ao consumidor final pode chegar a 16,9%, o que a Agência qualifica como “efeito nefasto”, com impacto negativo inevitável sobre os índices de inflação.
+
+Uma empresa do porte da Eletrobras é fundamental para evitar que se formem oligopólios que combinem estratégias conjuntas de venda, o que penalizará todos os brasileiros. Mais uma vez será o povo que pagará esta conta?
+
+Diante deste cenário preocupante, que expõe o futuro do País a enormes riscos e ameaças, convoco Vossa Excelência a se unir à luta contra a privatização do Sistema Eletrobras.
+
+Conto com seu apoio!
+
+Diga NÃO à privatização do Sistema Eletrobras.
+
+Atenciosamente,
+
+</value>
+  </data>
+</root>
